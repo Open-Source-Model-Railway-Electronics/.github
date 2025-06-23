@@ -3,9 +3,24 @@
 Welcome! This organization contains open-source PCBs and decoder modules for model railway automation.  
 Each module below includes a visual preview and links to the corresponding repository and release section.
 
----
+## 📚 Index
 
-## 📚 Project Overview
+- [OS-Servo-Decoder-12](#os-servo-decoder-12)
+- [OS-Servo-Decoder-8](#os-servo-decoder-8)
+- [OS-Servo-Decoder-6-frog-relay](#os-servo-decoder-6-frog-relay)
+- [OS-Solenoid-Decoder](#os-solenoid-decoder)
+- [S88-CS](#s88-cs)
+- [S88-GND](#s88-gnd)
+- [relayExtension](#relayextension)
+- [unifrog-latching-relay](#unifrog-latching-relay)
+- [elektro-frog-relay-extension](#elektro-frog-relay-extension)
+- [led-strips](#led-strips)
+- [Wire-Splits](#wire-splits)
+- [Analog-Layout-Control](#analog-layout-control)
+- [Solder-sleepers](#solder-sleepers)
+- [turning-loop-modules](#turning-loop-modules)
+
+---
 
 ### OS-Servo-Decoder-12  
 ![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-12/blob/main/hardware/OS-Servo-Decoder-12.png?raw=true)  
