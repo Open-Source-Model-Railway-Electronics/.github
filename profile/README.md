@@ -56,11 +56,21 @@ Each module below includes a visual preview and links to the corresponding repos
 ---
 
 ### relayExtension  
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/relayExtension/blob/main/hardware/relay-extension-SMD.png?raw=true)  
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/relayExtension/blob/main/hardware/relay-extension-THT.png?raw=true)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Open-Source-Model-Railway-Electronics/relayExtension/blob/main/hardware/relay-extension-SMD.png?raw=true" alt="SMD version" width="350"/>
+    </td>
+    <td>
+      <img src="https://github.com/Open-Source-Model-Railway-Electronics/relayExtension/blob/main/hardware/relay-extension-THT.png?raw=true" alt="THT version" width="350"/>
+    </td>
+  </tr>
+</table>  
+
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/relayExtension/blob/main/docs/Manual.pdf)  
 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/relayExtension)  
 📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/relayExtension/releases/latest)
+
 
 ---
 
