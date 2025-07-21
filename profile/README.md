@@ -3,15 +3,6 @@
 Welcome! This organization contains open-source PCBs and decoder modules for model railway automation.  
 Each module below includes a visual preview and links to the corresponding repository and release section.
 
----
-
-## 📚 Project Overview
-
-### OS-Servo-Decoder-12  
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-12/blob/main/hardware/OS-Servo-Decoder-12.png?raw=true)  
-📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-12/blob/main/docs/Manual.pdf)  
-🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-12)  
-📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-12/releases/latest)
 
 ---
 
@@ -21,13 +12,6 @@ Each module below includes a visual preview and links to the corresponding repos
 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8)  
 📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/releases/latest)
 
----
-
-### OS-Servo-Decoder-6-frog-relay  
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-6-frog-relay/blob/main/hardware/OS-Servo-Decoder-6-frog-relay.png?raw=true)  
-📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-6-frog-relay/blob/main/docs/Manual.pdf)  
-🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-6-frog-relay)  
-📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-6-frog-relay/releases/latest)
 
 ---
 
