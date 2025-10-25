@@ -48,13 +48,6 @@ Each module below includes a visual preview and links to the corresponding repos
 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/unifrog-latching-relay)  
 📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/unifrog-latching-relay/releases/latest)
 
----
-
-### elektro-frog-relay-extension  
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/elektro-frog-relay-extension/blob/main/hardware/elektro-frog-relay-extension.png?raw=true)  
-📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/elektro-frog-relay-extension/blob/main/docs/Manual.pdf)  
-🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/elektro-frog-relay-extension)  
-📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/elektro-frog-relay-extension/releases/latest)
 
 ---
 
