@@ -51,19 +51,20 @@ Each module below includes a visual preview and links to the corresponding repos
 
 ---
 
-### S88-CS  
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/S88-CS/blob/main/hardware/S88-CS.png?raw=true)  
-📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/S88-CS/blob/main/docs/Manual.pdf)  
-🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/S88-CS)  
-📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/S88-CS/releases/latest)
+### OS-S88n-CS
+![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-CS/blob/main/hardware/S88-CS.png?raw=true)
+📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-CS/blob/main/docs/Manual.pdf)
+🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-CS)
+📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-CS/releases/latest)
 
 ---
 
-### S88-GND  
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/S88-GND/blob/main/hardware/S88-GND.png?raw=true)  
-📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/S88-CS/blob/main/docs/Manual.pdf)  
-🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/S88-GND)  
-📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/S88-GND/releases/latest)
+### OS-S88n-GND
+![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-GND/blob/main/hardware/S88-GND.png?raw=true)
+📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-GND/blob/main/docs/Manual.pdf)
+🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-GND)
+📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-GND/releases/latest)
+
 
 ---
 
