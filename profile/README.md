@@ -68,14 +68,11 @@ Each module below includes a visual preview and links to the corresponding repos
 📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-GND/releases/latest)  
 
 
-
----
-
-### led-strips  
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/led-strips/blob/main/hardware/led-strips.png?raw=true)  
-📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/led-strips/blob/main/docs/Manual.pdf)  
-🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/led-strips)  
-📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/led-strips/releases/latest)
+### OS-led-strips  
+![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips/blob/main/hardware/led-strips.png?raw=true)  
+📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips/blob/main/docs/Manual.pdf)  
+🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips)  
+📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips/releases/latest)
 
 ---
 
