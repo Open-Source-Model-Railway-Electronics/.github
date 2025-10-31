@@ -10,7 +10,7 @@ Each section links directly to the Markdown files within this repository.
 
 ---
 
-### ⚙️ Track Components and Wiring
+🧭 Understanding model railway electronics — Explanations & Guides
 - [Points & Frogs](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Points_and_frogs/Points_and_frogs.md)  
 - [Turning Loop Problem](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/turning_loop_problem/turning_loop_problem.md)  
 - [Wiring Guide](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/wiring_guide/wiring_guide.md)  
