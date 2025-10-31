@@ -3,6 +3,34 @@
 Welcome! This organization contains open-source PCBs and decoder modules for model railway automation.  
 Each module below includes a visual preview and links to the corresponding repository and release section.
 
+## 📘 Documentation Index
+
+Below you can find all technical documentation chapters of the **Open Source Model Railway Electronics** project.  
+Each section links directly to the Markdown files within this repository.
+
+---
+
+### ⚙️ Track Components and Wiring
+- [Points & Frogs](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Points_and_frogs/Points_and_frogs.md)  
+- [Turning Loop Problem](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/turning_loop_problem/turning_loop_problem.md)  
+- [Wiring Guide](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/wiring_guide/wiring_guide.md)  
+- [Automize a Layout](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/automize_a_layout/automize_a_layout.md)
+
+---
+
+### 🛠️ Build Your Own Decoder
+- [Order Bare PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Ordering_bare_PCB/Ordering_bare_PCB.md)  
+- [Order SMT Assembled PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Ordering_SMT_ASSEMBLED_PCB/Ordering_SMT_ASSEMBLED_PCB.md)  
+- [Program Your OS Decoder](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Program_OS-DCC-Decoder/Program_OS-DCC-Decoder.md)
+
+---
+
+### 💡 Create Your Own PCB Tutorial
+- [Make Your Own Custom LED Strip](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/makeYourOwnCustomLedStrip/makeYourOwnCustomLedStrip.md)
+
+---
+
+
 
 ---
 
