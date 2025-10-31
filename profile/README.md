@@ -5,13 +5,13 @@ Each module below includes a visual preview and links to the corresponding repos
 
 ## 📘 Documentation Index
 
-Below you can find all technical documentation chapters of the **Open Source Model Railway Electronics** project.  
-Each section links directly to the Markdown files within this repository.
+Welcome to the technical documentation of **Open Source Model Railway Electronics**.  
+Each chapter explains, builds, or programs part of your layout — all fully open-source and reproducible.
 
 ---
 
-🧭 Understanding model railway electronics — Explanations & Guides
-- [Points & Frogs](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Points_and_frogs/Points_and_frogs.md)  
+### 🧭 Understanding Model Railway Electronics — Explanations & Guides
+- [Points & Frogs](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Points_and_frogs/points_and_frogs.md)  
 - [Turning Loop Problem](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/turning_loop_problem/turning_loop_problem.md)  
 - [Wiring Guide](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/wiring_guide/wiring_guide.md)  
 - [Automize a Layout](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/automize_a_layout/automize_a_layout.md)
@@ -19,9 +19,9 @@ Each section links directly to the Markdown files within this repository.
 ---
 
 ### 🛠️ Build Your Own Decoder
-- [Order Bare PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Ordering_bare_PCB/Ordering_bare_PCB.md)  
-- [Order SMT Assembled PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Ordering_SMT_ASSEMBLED_PCB/Ordering_SMT_ASSEMBLED_PCB.md)  
-- [Program Your OS Decoder](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Program_OS-DCC-Decoder/Program_OS-DCC-Decoder.md)
+- [Order Bare PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Ordering_bare_PCB/ordering_bare_pcb.md)  
+- [Order SMT Assembled PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Ordering_SMT_ASSEMBLED_PCB/ordering_smt_assembled_pcb.md)  
+- [Program Your OS Decoder](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Program_OS-DCC-Decoder/program_os-dcc-decoder.md)
 
 ---
 
@@ -29,6 +29,7 @@ Each section links directly to the Markdown files within this repository.
 - [Make Your Own Custom LED Strip](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/makeYourOwnCustomLedStrip/makeYourOwnCustomLedStrip.md)
 
 ---
+
 
 
 
