@@ -11,23 +11,22 @@ Each chapter explains, builds, or programs part of your layout — all fully ope
 ---
 
 ### 🧭 Understanding Model Railway Electronics — Explanations & Guides
-- [Points & Frogs](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Points_and_frogs/points_and_frogs.md)  
-- [Turning Loop Problem](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/turning_loop_problem/turning_loop_problem.md)  
+- [Points & Frogs](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/Points_and_frogs/points_and_frogs-EN.md)
+- [Turning Loop Problem](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/turning_loop_problem/turning_loop_problem-EN.md)
 - [Wiring Guide](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/wiring_guide/wiring_guide.md)  
-- [Automize a Layout](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/automize_a_layout/automize_a_layout.md)
+- [Automize a Layout](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/automize_a_layout/automize_a_layout-EN.md)
 
 ---
 
 ### 🛠️ Build Your Own Decoder
-- [Order Bare PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Ordering_bare_PCB/ordering_bare_pcb.md)  
-- [Order SMT Assembled PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Ordering_SMT_ASSEMBLED_PCB/ordering_smt_assembled_pcb.md)  
-- [Program Your OS Decoder](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/Program_OS-DCC-Decoder/program_os-dcc-decoder.md)
-
+- [Order Bare PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/Ordering_bare_PCB/Ordering_bare_PCB-EN.md)
+- [Order SMT Assembled PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/Ordering_SMT_ASSEMBLED_PCB/Ordering_Assembled_PCBs_JLCPCB-EN.md)
+- [Program Your OS Decoder](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/Program_OS-DCC-Decoder/Program_OS-DCC-Decoder-EN.md)
 ---
 
 ### 💡 Create Your Own PCB Tutorial
-- [Make Your Own Custom LED Strip](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/makeYourOwnCustomLedStrip/makeYourOwnCustomLedStrip.md)
-- [Make Your Own Wire split ](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/makeYourOwnCustomLedStrip/make_your_own_wire_split.md)
+- [Make Your Own Custom LED Strip](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/make_your_own_custom_LED_strip/makeYourOwnCustomLedStrip-EN.md)
+- [Make Your Own Wire split ]( https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/make_your_own_split/make_your_own_wire_split-EN.md)
 
 ---
 
