@@ -27,6 +27,7 @@ Each chapter explains, builds, or programs part of your layout — all fully ope
 
 ### 💡 Create Your Own PCB Tutorial
 - [Make Your Own Custom LED Strip](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/makeYourOwnCustomLedStrip/makeYourOwnCustomLedStrip.md)
+- [Make Your Own Wire split ](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/main/makeYourOwnCustomLedStrip/make_your_own_wire_split.md)
 
 ---
 
