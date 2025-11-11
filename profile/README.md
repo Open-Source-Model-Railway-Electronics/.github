@@ -72,8 +72,7 @@ Each chapter explains, builds, or programs part of your layout — all fully ope
 ---
 
 ### OS-S88n (CS/GND/OTPO)
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n-CS/blob/main/hardware/S88-CS.png?raw=true)  
-
+![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/master/hardware/CS/S88-CS.png?raw=true)  
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/main/docs/Manual-EN.md)  
 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n)  
 📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/releases/latest)  
@@ -81,7 +80,7 @@ Each chapter explains, builds, or programs part of your layout — all fully ope
 ---
 
 
-### OS-led-strips  
+### OS-led-strips   
 ![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips/blob/main/hardware/led-strips.png?raw=true)  
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips/blob/main/docs/Manual-EN.md)  
 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips)  
