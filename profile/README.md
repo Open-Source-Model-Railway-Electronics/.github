@@ -91,7 +91,7 @@ Each chapter explains, builds, or programs part of your layout — all fully ope
 ---
 
 
-### OS-led-strips   
+### OS-Lux-One
 ![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips/blob/main/hardware/led-strips.png?raw=true)  
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips/blob/main/docs/Manual-EN.md)  
 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-led-strips)  
