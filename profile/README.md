@@ -64,17 +64,8 @@ Each chapter explains, builds, or programs part of your layout — all fully ope
 ---
 
 ### OS-Relay  
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/hardware/relay-extension-SMD.png?raw=true" alt="SMD version" width="350"/>
-    </td>
-    <td>
-      <img src="https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/hardware/relay-extension-THT.png?raw=true" alt="THT version" width="350"/>
-    </td>
-  </tr>
-</table>  
 
+![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/docs/all.png?raw=true")
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/docs/Manual-EN.md)  
 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays)  
 📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/releases/latest)
