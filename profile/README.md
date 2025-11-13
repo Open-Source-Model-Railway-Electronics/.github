@@ -33,8 +33,8 @@ Each chapter explains, builds, or programs part of your layout — all fully ope
 ---
 
 ### OS-Duplex 
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/main/hardware/OS-Duplex.png?raw=true)  
-📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/main/docs/Manual-EN.md)  
+![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)  
+📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-EN.md)  
 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex)  
 📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 
