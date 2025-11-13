@@ -84,7 +84,7 @@ Each chapter explains, builds, or programs part of your layout — all fully ope
 
 ### OS-S88n (CS/GND/OTPO)
 ![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/master/docs/all.png )
-📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/main/docs/Manual-EN.md)  
+📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/master/docs/Manual-EN.md)  
 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n)  
 📦 [Latest release](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/releases/latest)  
 
