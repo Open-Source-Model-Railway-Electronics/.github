@@ -34,7 +34,6 @@ These manuals explain in great detail how you can download the needed files, how
 - [Order Bare PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/Ordering_bare_PCB/Ordering_bare_PCB-EN.md)
 - [Order SMT Assembled PCB](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/Ordering_SMT_ASSEMBLED_PCB/Ordering_Assembled_PCBs_JLCPCB-EN.md)
 - [Program Your OS Decoder](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/Program_OS-DCC-Decoder/Program_OS-DCC-Decoder-EN.md)
-- TODO  make your own solder sleeper
 
 <br>
 <br>
@@ -43,6 +42,8 @@ These manuals explain in great detail how you can download the needed files, how
 ---
 - [Make Your Own Custom LED Strip](https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/make_your_own_custom_LED_strip/makeYourOwnCustomLedStrip-EN.md)
 - [Make Your Own Wire split ]( https://github.com/Open-Source-Model-Railway-Electronics/docs/blob/master/make_your_own_split/make_your_own_wire_split-EN.md)
+- TODO  make your own solder sleeper
+- TODO  make your own control panel
 
 <br>
 <br>
