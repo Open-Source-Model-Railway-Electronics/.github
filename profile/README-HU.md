@@ -60,7 +60,7 @@ Opcionális relés foglalatokkal szárpolarizálás adható hozzá, vagy plusz t
 
 ![Előnézet](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)
 
-📖 [Kézikönyv (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-EN.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
+📖 [Kézikönyv](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/manual-HU.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 
 <br>
 
@@ -72,7 +72,7 @@ Az OS-Duplex-Servo az OS-Duplex egyik változata, kiegészítve **szervómotor k
 
 ![Előnézet](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/blob/master/hardware/OS-Duplex.png?raw=true)
 
-📖 [Kézikönyv (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/blob/master/docs/Manual-EN.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/releases/latest)
+📖 [Kézikönyv](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/blob/master/docs/manual-HU.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/releases/latest)
 
 <br>
 
@@ -84,7 +84,7 @@ Az OS-Servo-Decoder-8 egy egyszerű és megbízható DCC kiegészítő dekóder,
 
 ![Előnézet](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/blob/main/hardware/OS-Servo-Decoder-8.png?raw=true)
 
-📖 [Kézikönyv (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/blob/main/docs/Manual-EN.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/releases/latest)
+📖 [Kézikönyv](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/blob/main/docs/manual-HU.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/releases/latest)
 
 <br>
 
@@ -104,7 +104,7 @@ Főbb jellemzők:
 
 ![Előnézet](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/blob/main/hardware/OS-Solenoid-Decoder.png?raw=true)
 
-📖 [Kézikönyv (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/blob/main/docs/Manual-EN.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/releases/latest)
+📖 [Kézikönyv](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/blob/main/docs/manual-HU.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/releases/latest)
 
 <br>
 
@@ -128,7 +128,7 @@ Minden változat láncolható RJ-45 csatlakozón keresztül, és egyetlen láncb
 
 ![Előnézet](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/master/docs/all.png?raw=true)
 
-📖 [Kézikönyv (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/master/docs/Manual-EN.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/releases/latest)
+📖 [Kézikönyv](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/master/docs/manual-HU.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/releases/latest)
 
 <br>
 
@@ -149,7 +149,7 @@ Mindkét típus THT és SMD kivitelben elérhető, és szétcsattogtható panele
 
 ![Előnézet](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/docs/all.png?raw=true)
 
-📖 [Kézikönyv (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/docs/Manual-EN.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/releases/latest)
+📖 [Kézikönyv](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/docs/manual-HU.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/releases/latest)
 
 <br>
 
@@ -165,7 +165,7 @@ Az OS-Lux-One moduláris LED világítószalag digitális modellvasúti járműv
 
 ![Előnézet](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/blob/main/hardware/OS-Lux-One/OS-Lux-One.pdf?raw=true)
 
-📖 [Kézikönyv (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/blob/main/docs/Manual-EN.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/releases/latest)
+📖 [Kézikönyv](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/blob/main/docs/manual-HU.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/releases/latest)
 
 <br>
 
@@ -189,7 +189,7 @@ A sorozat moduljai:
 
 ![Előnézet](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/blob/main/hardware/Analog-Layout-Control.png?raw=true)
 
-📖 [Kézikönyv (EN)](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/blob/main/docs/Manual-EN.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/releases/latest)
+📖 [Kézikönyv](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/blob/main/docs/manual-HU.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/releases/latest)
 
 <br>
 
