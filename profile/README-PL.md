@@ -60,7 +60,7 @@ Opcjonalne gniazda przekaźnikowe umożliwiają polaryzację sercówek lub napę
 
 ![Podgląd](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)
 
-📖 [Instrukcja (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
+📖 [Instrukcja](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 
 <br>
 
@@ -72,7 +72,7 @@ OS-Duplex-Servo to wariant OS-Duplex z dodaną obsługą **wyjść serwomechaniz
 
 ![Podgląd](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/blob/master/hardware/OS-Duplex.png?raw=true)
 
-📖 [Instrukcja (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/blob/master/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/releases/latest)
+📖 [Instrukcja](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/blob/master/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex-Servo/releases/latest)
 
 <br>
 
@@ -84,7 +84,7 @@ OS-Servo-Decoder-8 to prosty i niezawodny dekoder akcesoriów DCC zaprojektowany
 
 ![Podgląd](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/blob/main/hardware/OS-Servo-Decoder-8.png?raw=true)
 
-📖 [Instrukcja (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/releases/latest)
+📖 [Instrukcja](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Servo-Decoder-8/releases/latest)
 
 <br>
 
@@ -104,7 +104,7 @@ Główne cechy:
 
 ![Podgląd](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/blob/main/hardware/OS-Solenoid-Decoder.png?raw=true)
 
-📖 [Instrukcja (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/releases/latest)
+📖 [Instrukcja](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Solenoid-Decoder/releases/latest)
 
 <br>
 
@@ -128,7 +128,7 @@ Wszystkie wersje można łączyć łańcuchowo przez RJ-45 i obsługują do 31 m
 
 ![Podgląd](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/master/docs/all.png?raw=true)
 
-📖 [Instrukcja (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/master/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/releases/latest)
+📖 [Instrukcja](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/blob/master/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-S88n/releases/latest)
 
 <br>
 
@@ -149,7 +149,7 @@ Oba typy są dostępne w wersjach THT i SMD i mogą być zamawiane jako panele d
 
 ![Podgląd](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/docs/all.png?raw=true)
 
-📖 [Instrukcja (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/releases/latest)
+📖 [Instrukcja](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-relays/releases/latest)
 
 <br>
 
@@ -165,7 +165,7 @@ OS-Lux-One to modułowy pasek oświetlenia LED do cyfrowego taboru kolejek model
 
 ![Podgląd](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/blob/main/hardware/OS-Lux-One/OS-Lux-One.pdf?raw=true)
 
-📖 [Instrukcja (EN)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/releases/latest)
+📖 [Instrukcja](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/OS-Lux-One/releases/latest)
 
 <br>
 
@@ -189,7 +189,7 @@ Moduły w tej serii to:
 
 ![Podgląd](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/blob/main/hardware/Analog-Layout-Control.png?raw=true)
 
-📖 [Instrukcja (EN)](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/releases/latest)
+📖 [Instrukcja](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/blob/main/docs/Manual-PL.md) &nbsp;|&nbsp; 🔗 [Repozytorium](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control) &nbsp;|&nbsp; 📦 [Najnowsze wydanie](https://github.com/Open-Source-Model-Railway-Electronics/Analog-Layout-Control/releases/latest)
 
 <br>
 
