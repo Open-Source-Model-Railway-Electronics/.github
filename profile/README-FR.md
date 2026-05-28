@@ -58,7 +58,7 @@ Chacun des deux côtés (A et B) peut fonctionner indépendamment ou être coupl
 
 Des prises relais optionnelles permettent la polarisation du cœur ou le pilotage de bobines et moteurs supplémentaires. Le Duplex peut également piloter un signal à 4 feux avec tous les aspects possibles.
 
-![Aperçu]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
+![Aperçu](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Manuel (FR)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-FR.md) &nbsp;|&nbsp; 🔗 [Dépôt](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Dernière version](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 

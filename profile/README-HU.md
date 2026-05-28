@@ -58,7 +58,7 @@ Mindkét oldal (A és B) önállóan működhet, vagy összekapcsolható egymás
 
 Opcionális relés foglalatokkal szárpolarizálás adható hozzá, vagy plusz tekercsek és motorok hajthatók meg. A Duplex minden lehetséges aspektussal 4 lámpás jelzőt is tud vezérelni.
 
-![Előnézet]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
+![Előnézet](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Kézikönyv](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-HU.md) &nbsp;|&nbsp; 🔗 [Tároló](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Legújabb kiadás](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 

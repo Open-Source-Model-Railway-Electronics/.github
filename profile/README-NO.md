@@ -58,7 +58,7 @@ Hver av de to sidene (A og B) kan operere uavhengig eller kobles sammen. Hver si
 
 Valgfrie reléfester muliggjør frog-polarisering eller drift av ekstra spoler og motorer. Duplex kan også drive et 4-lampe signal med ethvert mulig aspekt.
 
-![Forhåndsvisning]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
+![Forhåndsvisning](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-NO.md) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Siste utgivelse](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 

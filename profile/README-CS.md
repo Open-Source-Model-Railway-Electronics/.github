@@ -58,7 +58,7 @@ Každá ze dvou stran (A a B) může pracovat samostatně nebo být propojena do
 
 Volitelné zásuvky pro relé umožňují polarizaci srdcovky nebo pohon dalších cívek a motorů. OS-Duplex může také pohánět 4-lampové návěstidlo se všemi možnými aspekty.
 
-![Náhled]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
+![Náhled](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Manuál](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-CS.md) &nbsp;|&nbsp; 🔗 [Repozitář](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Nejnovější vydání](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 
