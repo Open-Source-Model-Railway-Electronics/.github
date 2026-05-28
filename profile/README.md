@@ -58,7 +58,7 @@ Each of the two sides (A and B) can operate independently or be linked together.
 
 Optional relay sockets allow frog polarization or driving extra coils and motors. The Duplex can also drive a 4-lamp signal with every possible aspect.
 
-![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)
+![Preview](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-EN.md) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Latest Release](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 
