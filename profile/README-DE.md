@@ -58,7 +58,7 @@ Jede der beiden Seiten (A und B) kann unabhängig oder miteinander gekoppelt bet
 
 Optionale Relais-Steckplätze ermöglichen die Herzstückpolarisierung oder das Ansteuern zusätzlicher Spulen und Motoren. Der Duplex kann außerdem ein 4-Licht-Signal mit allen möglichen Signalbildern ansteuern.
 
-![Vorschau](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)
+![Vorschau]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Handbuch (DE)](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-DE.md) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Neueste Version](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 

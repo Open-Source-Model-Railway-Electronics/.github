@@ -58,7 +58,7 @@ Ognuno dei due canali (A e B) può funzionare in modo indipendente o essere coll
 
 I connettori relè opzionali consentono la polarizzazione del frog o l'azionamento di bobine e motori aggiuntivi. Il Duplex può anche pilotare un segnale a 4 luci con tutti i possibili aspetti.
 
-![Anteprima](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)
+![Anteprima]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Manuale](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-IT.md) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Ultima Release](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 

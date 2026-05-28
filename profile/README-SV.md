@@ -58,7 +58,7 @@ Var och en av de två sidorna (A och B) kan arbeta oberoende eller länkas samma
 
 Optionella reläsocketar möjliggör hjärtpunktspolarisering eller drivning av extra spoler och motorer. OS-Duplex kan också driva en 4-lampssignal med alla möjliga aspekter.
 
-![Förhandsgranskning](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)
+![Förhandsgranskning]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-SV.md) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Senaste release](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 

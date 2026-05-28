@@ -58,7 +58,7 @@ Hver af de to sider (A og B) kan fungere uafhængigt eller være koblet sammen. 
 
 Valgfrie relæstik muliggør hjertestykke-polarisering eller drift af ekstra spoler og motorer. OS-Duplex kan også drive et 4-lampe-signal med ethvert muligt aspekt.
 
-![Forhåndsvisning](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)
+![Forhåndsvisning]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-DA.md) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Seneste udgivelse](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 

@@ -58,7 +58,7 @@ Cada um dos dois lados (A e B) pode funcionar de forma independente ou estar lig
 
 Os sockets de relé opcionais permitem a polarização de frog ou o accionamento de bobines e motores adicionais. O Duplex também pode accionar um sinal de 4 lâmpadas com todos os aspectos possíveis.
 
-![Pré-visualização](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)
+![Pré-visualização]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Manual](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-PT.md) &nbsp;|&nbsp; 🔗 [Repositório](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Última Versão](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 

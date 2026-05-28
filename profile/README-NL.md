@@ -58,7 +58,7 @@ Elk van de twee kanten (A en B) kan onafhankelijk werken of aan elkaar worden ge
 
 Optionele relais­sockets staan hartpunt­polarisering toe of het aansturen van extra spoelen en motoren. De Duplex kan ook een 4-lampen­sein aansturen met elk mogelijk aspect.
 
-![Voorbeeld](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/hardware/OS-Duplex.png?raw=true)
+![Voorbeeld]((https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/image.png?raw=true)
 
 📖 [Handleiding](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/blob/master/docs/Manual-NL.md) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex) &nbsp;|&nbsp; 📦 [Laatste release](https://github.com/Open-Source-Model-Railway-Electronics/OS-Duplex/releases/latest)
 
